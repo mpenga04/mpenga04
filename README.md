@@ -1,16 +1,32 @@
-## Hi there 👋
+# Salut, moi c’est Benji 🪐
 
-<!--
-**mpenga04/mpenga04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Étudiant en informatique |    Passionné par l’intelligence artificielle,  la data science et la cubersécurité 
+📍 Kinshasa, RDC | 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Mes compétences
+
+- 💻 Langages : PHP, HTML/CSS
+- 🔙 Backend : MySQL
+- 🧠 AI & Data Science (en apprentissage)
+- 🌐 Projet perso : vote en ligne.
+
+---
+
+## 💡 Projets récents
+
+- ✨ [VoteOnline](https://github.com/projet-L1) – Système de vote sécurisé avec espace admin et électeur
+
+---
+
+## 🕊️ Citation préférée
+
+> "Ce n’est pas parce qu’on ne comprend pas que le silence ne parle pas." 
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : mpengabenji@gmail.com.com
+- 🧠 Toujours en quête de projets qui marient poésie et technologie...
