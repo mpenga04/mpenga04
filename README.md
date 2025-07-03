@@ -9,7 +9,6 @@
 
 - 💻 Langages : PHP, HTML/CSS
 - 🔙 Backend : MySQL
-- 🧠 AI & Data Science (en apprentissage)
 - 🌐 Projet perso : vote en ligne.
 
 ---
