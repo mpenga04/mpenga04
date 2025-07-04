@@ -15,7 +15,7 @@
 
 ## 💡 Projets récents
 
-- ✨ [VoteOnline](https://github.com/projet-L1) – Système de vote sécurisé avec espace admin et électeur
+- ✨ [VoteOnline](https://github.com/mpenga04/projet-L1.git) – Système de vote sécurisé avec espace admin et électeur
 
 ---
 
